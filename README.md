@@ -3,6 +3,8 @@ Unofficial Docker image for the MethPipe package from the Smith Lab in the Molec
 
 This Docker image was created by Rick M. Tankard at Murdoch University, Perth, WA, Australia.
 
+For updates to later MethPipe versions, please either make an issue or make a pull-request to https://github.com/trickytank/methpipe-docker. The Docker Hub repository is configured for automated builds.
+
 # References
   
   - MethPipe website: http://smithlabresearch.org/software/methpipe/
